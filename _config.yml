@@ -2,3 +2,4 @@ theme: jekyll-theme-modernist
 title: Nikki's Homepage
 description: Online notebook for Crafting Digital History
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
